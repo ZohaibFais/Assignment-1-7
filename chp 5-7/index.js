@@ -64,16 +64,16 @@
 
 // num = prompt("Enter any number: ")
 
-// table1 = num * 1
-// table2 = num * 2
-// table3 = num * 3
-// table4 = num * 4
-// table5 = num * 5
-// table6 = num * 6
-// table7 = num* 7
-// table8 = num * 8
-// table9 = num * 9
-// table10 = num * 10
+// var table1 = num * 1
+// var table2 = num * 2
+// var table3 = num * 3
+// var table4 = num * 4
+// var table5 = num * 5
+// var table6 = num * 6
+// var table7 = num* 7
+// var table8 = num * 8
+// var table9 = num * 9
+// var table10 = num * 10
 
 // document.write (num + " "+  "x" + " "+ 1 + " " + "="  , table1)
 // document.write("<br>")
